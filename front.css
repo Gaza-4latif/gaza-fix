@@ -1,0 +1,33 @@
+.bg{
+    background-color: maroon;
+}
+.fr{
+    font-family:Arial Narrow ;
+}
+.mast{
+    font-family:Brush Script MT ;
+    color: red;
+    font-size: 40px;
+}
+.blog{
+    list-style-type: none;
+}
+.navbar{
+padding-bottom: 3px;
+}
+.nav-link{
+    color: aliceblue;
+}
+.DAD{
+    background-color:black;
+}
+ .form-label{
+    color: white;
+ }   
+ .btn{
+    width: 100%;
+    margin-top: 50px;
+ }
+ .for{
+    margin-left: 200px;
+ }
